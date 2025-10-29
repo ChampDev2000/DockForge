@@ -130,7 +130,7 @@ Here’s how you can help:
 
 ## 📜 License
 
-This repository is licensed under the **MIT License** — feel free to use, modify, and share!
+This repository is licensed under the **MIT License**, feel free to use, modify, and share!
 
 ---
 
